@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{BBA8C466-E2F0-4BAA-AB61-B7BB00785C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strukt Point", "Strukt Point\Strukt Point.csproj", "{7070B54E-56DE-4DF2-BFC5-53159E41C760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone", "Clone\Clone.csproj", "{CFC3B34C-0F6B-441C-8EE6-CB8BEECC0ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA8C466-E2F0-4BAA-AB61-B7BB00785C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA8C466-E2F0-4BAA-AB61-B7BB00785C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA8C466-E2F0-4BAA-AB61-B7BB00785C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA8C466-E2F0-4BAA-AB61-B7BB00785C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7070B54E-56DE-4DF2-BFC5-53159E41C760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7070B54E-56DE-4DF2-BFC5-53159E41C760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7070B54E-56DE-4DF2-BFC5-53159E41C760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7070B54E-56DE-4DF2-BFC5-53159E41C760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC3B34C-0F6B-441C-8EE6-CB8BEECC0ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC3B34C-0F6B-441C-8EE6-CB8BEECC0ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC3B34C-0F6B-441C-8EE6-CB8BEECC0ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC3B34C-0F6B-441C-8EE6-CB8BEECC0ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A27117-E778-4F9C-A67D-7B3DF304FD3C}
+	EndGlobalSection
+EndGlobal
